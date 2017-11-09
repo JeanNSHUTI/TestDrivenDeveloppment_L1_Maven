@@ -4,7 +4,7 @@
 package ddl4_L1_Maven;
 
 /**
- * @author Dell
+ * @author Jean-Rene Nshuti
  *
  */
 public class Arithmetic implements Calculator {

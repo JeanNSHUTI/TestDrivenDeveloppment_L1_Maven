@@ -9,7 +9,7 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 /**
- * @author Dell
+ * @author Jean-Rene Nshuti
  *
  */
 @SuppressWarnings("unused")

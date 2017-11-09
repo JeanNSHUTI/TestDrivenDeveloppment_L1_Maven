@@ -4,7 +4,11 @@
 package ddl4_L1_Maven;
 
 /**
- * @author Dell
+ * @author Jean-Rene Nshuti
+ * this program was taken from https://openclassrooms.com/courses/les-tests-unitaires-en-java
+ * multiply and subtract classes as well as tests
+ * will be implemented by me.
+ * The rest is from openclassrooms
  *
  */
 public interface Calculator {
