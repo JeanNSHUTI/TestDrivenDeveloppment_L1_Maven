@@ -7,7 +7,7 @@ package ddl4_L1_Maven;
  * @author Jean-Rene Nshuti
  * this program was taken from https://openclassrooms.com/courses/les-tests-unitaires-en-java
  * multiply and subtract classes as well as tests
- * will be implemented by me.
+ * will be implemented by myself.
  * The rest is from openclassrooms
  *
  */
